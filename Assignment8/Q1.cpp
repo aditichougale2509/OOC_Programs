@@ -36,10 +36,10 @@ public:
 int main()
 {
     Distance d1(8, 9);
-   int a=10,b=20,c;
-   c=a+b;
-   cout<<"Valu of C:"<<c<<endl;
-  cout<<"the valu of feet and inch"<<d1.feet<<d1.inch<<endl;;
+   //int a=10,b=20,c;
+   //c=a+b;
+   //cout<<"Valu of C:"<<c<<endl;
+  //cout<<"the valu of feet and inch"<<d1.feet<<d1.inch<<endl;;
     // Calling overloaded unary - operator
     -d1;
     Distance d2(10,20);
